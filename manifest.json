@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Queue Shuffler",
+		"description": "Copy various information about the songs in your Playlist into your Clipboard (Artist, Album Name, Date Added, Duration, Image URL, Song URL).",
+		"preview": "queueShuffler/preview.png",
+		"main": "queueShuffler/queueShuffler.js",
+		"readme": "queueShuffler/README.md",
+        "authors": [
+            { "name": "podpah", "url": "https://github.com/podpah" }
+        ],
+        "tags": ["queue"]
+    }
+]
