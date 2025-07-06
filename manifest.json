@@ -10,6 +10,17 @@
         ],
         "tags": ["util","queue"]
     },
+	{
+		"name": "Queue Unliked Songs",
+		"description": "Queues unliked songs in current playlist",
+		"preview": "queueUnliked/preview.png",
+		"main": "queueUnliked/queueUnliked.js",
+		"readme": "queueUnliked/README.md",
+        "authors": [
+            { "name": "podpah", "url": "https://github.com/podpah" }
+        ],
+        "tags": ["util","queue","discover"]
+    },
     {
 		"name": "Reload Page",
 		"description": "Reloads the page",
