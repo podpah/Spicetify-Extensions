@@ -31,5 +31,17 @@
             { "name": "podpah", "url": "https://github.com/podpah" }
         ],
         "tags": ["util","reload"]
+    },
+    {
+        "name": "Toggleable No Controls",
+        "description": "Removes the titlebar, (Spotify >= 1.2.32). F8 to toggle",
+        "preview": "toggleableNoControls/preview.png",
+        "readme": "toggleableNoControls/README.md",
+        "main": "toggleableNoControls/toggleableNoControls.js",
+        "authors": [
+            { "name": "podpah", "url": "https://github.com/podpah" },
+            { "name": "ohitstom", "url": "https://github.com/ohitstom/"}
+        ],
+        "tags": ["interface", "minimalist"]
     }
 ]
